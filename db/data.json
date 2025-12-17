@@ -1,0 +1,405 @@
+{
+  "users": [
+    {
+      "_id": "1",
+      "role": "employee",
+      "isRemoteWork": true,
+      "user_avatar": "images/1.png",
+      "first_name": "Luffy",
+      "last_name": "Monkey",
+      "first_native_name": "Luffy",
+      "last_native_name": "Monkey",
+      "middle_native_name": "R.",
+      "department": "Web & Mobile",
+      "building": "Berlin Platz 32 (Germany)",
+      "room": "1404",
+      "date_birth": {
+        "year": 1901,
+        "month": 1,
+        "day": 1
+      },
+      "desk_number": "20",
+      "manager": {
+        "id": "3",
+        "first_name": "Zoro",
+        "last_name": "Roronoa"
+      },
+      "phone": "+12931293129",
+      "email": "luffy.monkey@leverx.com",
+      "password": "$2b$12$uZzxa9Eqd9/So.3l.xJ0C.XJvtZRp8PYXS49qWjhvR8ZWOeRAyY.2",
+      "skype": "live:.cid.21asd41jd1m132",
+      "cnumber": "C5336116",
+      "citizenship": "Georgia",
+      "visa": [
+        {
+          "issuing_country": "Poland",
+          "type": "National visa type D",
+          "start_date": 1652158800000,
+          "end_date": 1683608400000
+        }
+      ]
+    },
+    {
+      "_id": "2",
+      "role": "employee",
+      "isRemoteWork": false,
+      "user_avatar": "images/2.png",
+      "first_name": "Robin",
+      "last_name": "Nico",
+      "first_native_name": "Robin",
+      "last_native_name": "Nico",
+      "middle_native_name": "T.",
+      "department": "Web & Mobile",
+      "building": "Riga Center 5 (Latvia)",
+      "room": "1202",
+      "date_birth": {
+        "year": 1988,
+        "month": 5,
+        "day": 15
+      },
+      "desk_number": 14,
+      "manager": {
+        "id": "3",
+        "first_name": "Zoro",
+        "last_name": "Roronoa"
+      },
+      "phone": "+49123123123",
+      "email": "robin.nico@leverx.com",
+      "password": "$2b$12$uZzxa9Eqd9/So.3l.xJ0C.XJvtZRp8PYXS49qWjhvR8ZWOeRAyY.2",
+      "skype": "live:.cid.robin9988",
+      "cnumber": "C7636116",
+      "citizenship": "Poland",
+      "visa": [
+        {
+          "issuing_country": "Germany",
+          "type": "National visa type D",
+          "start_date": 1640995200000,
+          "end_date": 1672444800000
+        }
+      ]
+    },
+    {
+      "_id": "3",
+      "role": "hr",
+      "isRemoteWork": true,
+      "user_avatar": "images/3.png",
+      "first_name": "Zoro",
+      "last_name": "Roronoa",
+      "first_native_name": "Zoro",
+      "last_native_name": "Roronoa",
+      "middle_native_name": "M.",
+      "department": "Backend",
+      "building": "Berlin Platz 32 (Germany)",
+      "room": "903",
+      "date_birth": {
+        "year": 1993,
+        "month": 11,
+        "day": 11
+      },
+      "desk_number": 5,
+      "manager": {
+        "id": "11",
+        "first_name": "Test",
+        "last_name": "Test"
+      },
+      "phone": "+37098765432",
+      "email": "zoro.r@leverx.com",
+      "password": "$2b$12$uZzxa9Eqd9/So.3l.xJ0C.XJvtZRp8PYXS49qWjhvR8ZWOeRAyY.2",
+      "skype": "live:.cid.zoro88",
+      "cnumber": "C8123123",
+      "citizenship": "Lithuania",
+      "visa": [
+        {
+          "issuing_country": "France",
+          "type": "National visa type D",
+          "start_date": 1661990400000,
+          "end_date": 1693440000000
+        }
+      ]
+    },
+    {
+      "_id": "4",
+      "role": "employee",
+      "isRemoteWork": false,
+      "user_avatar": "images/4.png",
+      "first_name": "Nami",
+      "last_name": "Bell",
+      "first_native_name": "Nami",
+      "last_native_name": "Bell",
+      "middle_native_name": "K.",
+      "department": "Design",
+      "building": "Riga Center 5 (Latvia)",
+      "room": "1320",
+      "date_birth": {
+        "year": 1995,
+        "month": 3,
+        "day": 4
+      },
+      "desk_number": 7,
+      "manager": {
+        "id": "3",
+        "first_name": "Zoro",
+        "last_name": "Roronoa"
+      },
+      "phone": "+48763112233",
+      "email": "nami.bell@leverx.com",
+      "password": "$2b$12$uZzxa9Eqd9/So.3l.xJ0C.XJvtZRp8PYXS49qWjhvR8ZWOeRAyY.2",
+      "skype": "live:.cid.nami3311",
+      "cnumber": "C5436123",
+      "citizenship": "Poland",
+      "visa": [
+        {
+          "issuing_country": "Spain",
+          "type": "National visa type D",
+          "start_date": 1656633600000,
+          "end_date": 1688083200000
+        }
+      ]
+    },
+    {
+      "_id": "5",
+      "role": "hr",
+      "isRemoteWork": true,
+      "user_avatar": "images/5.png",
+      "first_name": "Sanji",
+      "last_name": "Vinsmoke",
+      "first_native_name": "Sanji",
+      "last_native_name": "Vinsmoke",
+      "middle_native_name": "S.",
+      "department": "QA",
+      "building": "Tbilisi Tower 4 (Georgia)",
+      "room": "507",
+      "date_birth": {
+        "year": 1989,
+        "month": 7,
+        "day": 29
+      },
+      "desk_number": 12,
+      "manager": {
+        "id": "11",
+        "first_name": "Test",
+        "last_name": "Test"
+      },
+      "phone": "+49301111222",
+      "email": "sanji.v@leverx.com",
+      "password": "$2b$12$uZzxa9Eqd9/So.3l.xJ0C.XJvtZRp8PYXS49qWjhvR8ZWOeRAyY.2",
+      "skype": "live:.cid.sanji77",
+      "cnumber": "C3211123",
+      "citizenship": "Germany",
+      "visa": [
+        {
+          "issuing_country": "Italy",
+          "type": "National visa type D",
+          "start_date": 1675209600000,
+          "end_date": 1706659200000
+        }
+      ]
+    },
+    {
+      "_id": "6",
+      "role": "employee",
+      "isRemoteWork": false,
+      "user_avatar": "images/6.png",
+      "first_name": "Usopp",
+      "last_name": "Sniper",
+      "first_native_name": "Usopp",
+      "last_native_name": "Sniper",
+      "middle_native_name": "L.",
+      "department": "Web & Mobile",
+      "building": "Tbilisi Tower 4 (Georgia)",
+      "room": "804",
+      "date_birth": {
+        "year": 1992,
+        "month": 10,
+        "day": 2
+      },
+      "desk_number": 3,
+      "manager": {
+        "id": "5",
+        "first_name": "Sanji",
+        "last_name": "Vinsmoke"
+      },
+      "phone": "+99551223344",
+      "email": "usopp.s@leverx.com",
+      "password": "$2b$12$uZzxa9Eqd9/So.3l.xJ0C.XJvtZRp8PYXS49qWjhvR8ZWOeRAyY.2",
+      "skype": "live:.cid.usopp221",
+      "cnumber": "C6123112",
+      "citizenship": "Georgia",
+      "visa": [
+        {
+          "issuing_country": "Czech Republic",
+          "type": "National visa type D",
+          "start_date": 1638316800000,
+          "end_date": 1669766400000
+        }
+      ]
+    },
+    {
+      "_id": "7",
+      "role": "employee",
+      "isRemoteWork": true,
+      "user_avatar": "images/7.png",
+      "first_name": "Chopper",
+      "last_name": "Tony",
+      "first_native_name": "Chopper",
+      "last_native_name": "Tony",
+      "middle_native_name": "B.",
+      "department": "Research",
+      "building": "Riga Center 5 (Latvia)",
+      "room": "310",
+      "date_birth": {
+        "year": 2001,
+        "month": 12,
+        "day": 25
+      },
+      "desk_number": 2,
+      "manager": {
+        "id": "5",
+        "first_name": "Sanji",
+        "last_name": "Vinsmoke"
+      },
+      "phone": "+37199881234",
+      "email": "chopper.t@leverx.com",
+      "password": "$2b$12$uZzxa9Eqd9/So.3l.xJ0C.XJvtZRp8PYXS49qWjhvR8ZWOeRAyY.2",
+      "skype": "live:.cid.chopper100",
+      "cnumber": "C2233112",
+      "citizenship": "Latvia",
+      "visa": [
+        {
+          "issuing_country": "Lithuania",
+          "type": "National visa type D",
+          "start_date": 1654041600000,
+          "end_date": 1685491200000
+        }
+      ]
+    },
+    {
+      "_id": "8",
+      "role": "employee",
+      "isRemoteWork": false,
+      "user_avatar": "images/8.png",
+      "first_name": "Franky",
+      "last_name": "Cutty",
+      "first_native_name": "Franky",
+      "last_native_name": "Cutty",
+      "middle_native_name": "G.",
+      "department": "Hardware",
+      "building": "Riga Center 5 (Latvia)",
+      "room": "402",
+      "date_birth": {
+        "year": 1985,
+        "month": 6,
+        "day": 1
+      },
+      "desk_number": 9,
+      "manager": {
+        "id": "9",
+        "first_name": "Brook",
+        "last_name": "Soul"
+      },
+      "phone": "+48771234567",
+      "email": "franky.c@leverx.com",
+      "password": "$2b$12$uZzxa9Eqd9/So.3l.xJ0C.XJvtZRp8PYXS49qWjhvR8ZWOeRAyY.2",
+      "skype": "live:.cid.franky55",
+      "cnumber": "C7812311",
+      "citizenship": "Poland",
+      "visa": [
+        {
+          "issuing_country": "Netherlands",
+          "type": "National visa type D",
+          "start_date": 1648771200000,
+          "end_date": 1680220800000
+        }
+      ]
+    },
+    {
+      "_id": "9",
+      "role": "hr",
+      "isRemoteWork": true,
+      "user_avatar": "images/9.png",
+      "first_name": "Brook",
+      "last_name": "Soul",
+      "first_native_name": "Brook",
+      "last_native_name": "Soul",
+      "middle_native_name": "V.",
+      "department": "Music & Audio",
+      "building": "Berlin Platz 32 (Germany)",
+      "room": "1505",
+      "date_birth": {
+        "year": 1979,
+        "month": 9,
+        "day": 13
+      },
+      "desk_number": 18,
+      "manager": {
+        "id": "11",
+        "first_name": "Test",
+        "last_name": "Test"
+      },
+      "phone": "+49305566778",
+      "email": "brook.s@leverx.com",
+      "password": "$2b$12$uZzxa9Eqd9/So.3l.xJ0C.XJvtZRp8PYXS49qWjhvR8ZWOeRAyY.2",
+      "skype": "live:.cid.brook77",
+      "cnumber": "C9901123",
+      "citizenship": "Germany",
+      "visa": [
+        {
+          "issuing_country": "Finland",
+          "type": "National visa type D",
+          "start_date": 1667260800000,
+          "end_date": 1698710400000
+        }
+      ]
+    },
+    {
+      "_id": "10",
+      "role": "employee",
+      "isRemoteWork": "false",
+      "user_avatar": "images/10.png",
+      "first_name": "Jimbei",
+      "last_name": "Knight",
+      "first_native_name": "Jimbei",
+      "last_native_name": "Knight",
+      "middle_native_name": "H.",
+      "department": "Security",
+      "building": "Tbilisi Tower 4 (Georgia)",
+      "room": "210",
+      "date_birth": {
+        "year": 1980,
+        "month": 4,
+        "day": 12
+      },
+      "desk_number": 10,
+      "manager": {
+        "id": "9",
+        "first_name": "Brook",
+        "last_name": "Soul"
+      },
+      "phone": "+995599112233",
+      "email": "jimbei.k@leverx.com",
+      "password": "$2b$12$uZzxa9Eqd9/So.3l.xJ0C.XJvtZRp8PYXS49qWjhvR8ZWOeRAyY.2",
+      "skype": "live:.cid.jimbei44",
+      "cnumber": "C5512311",
+      "citizenship": "Georgia",
+      "visa": [
+        {
+          "issuing_country": "Hungary",
+          "type": "National visa type D",
+          "start_date": 1664582400000,
+          "end_date": 1696032000000
+        }
+      ],
+      "date_birth.year": "1982",
+      "testfield": "test"
+    },
+    {
+      "_id": "11",
+      "email": "test@gmail.com",
+      "user_avatar": "images/person.png",
+      "password": "$2b$12$WzcLdw.WICpD8/aRb6/DSOr0MymDcdTVDIx2DWGv3d4UX0oGFty9e",
+      "role": "admin",
+      "first_name": "Test",
+      "last_name": "User"
+    }
+  ]
+}
